@@ -1,0 +1,1 @@
+sudo dpkg --list | grep -i package

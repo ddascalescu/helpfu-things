@@ -1,0 +1,1 @@
+Right click a OneDrive folder > Settings > Account > Add an account

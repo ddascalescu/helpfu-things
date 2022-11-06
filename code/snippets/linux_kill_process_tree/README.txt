@@ -1,0 +1,1 @@
+kill -- -$(ps -o pgid= $PID | grep -o '[0-9]*')

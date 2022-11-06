@@ -1,0 +1,1 @@
+Change default web browser, and change it back.

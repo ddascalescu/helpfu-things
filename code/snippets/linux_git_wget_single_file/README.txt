@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/username/repo/branch/path/to/file

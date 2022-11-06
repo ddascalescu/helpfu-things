@@ -1,0 +1,52 @@
+{
+  "clientToken" : "",
+  "launcherVersion" : {
+    "format" : 21,
+    "name" : "",
+    "profilesFormat" : 2
+  },
+  "profiles" : {
+    "25638ddefb52722c63f6e866e3ff2a22" : {
+      "created" : "1970-01-02T00:00:00.000Z",
+      "icon" : "Grass",
+      "lastUsed" : "1970-01-02T00:00:00.000Z",
+      "lastVersionId" : "latest-release",
+      "name" : "",
+      "type" : "latest-release"
+    },
+    "316e7a65-9da7-4c47-808b-08a53331b077" : {
+      "gameDir" : "E:\\Games\\Minecraft\\launchers\\ftb\\instances\\316e7a65-9da7-4c47-808b-08a53331b077",
+      "icon" : "data:image/png;base64,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",
+      "javaArgs" : "-Xmx8192M -Duser.language=en-GB -Dmt.disablechat=true -Dchtray.port=50998 -Dchtray.instance=316e7a65-9da7-4c47-808b-08a53331b077",
+      "lastUsed" : "2021-08-01T19:50:58.259Z",
+      "lastVersionId" : "1.12.2-forge-14.23.5.2855",
+      "name" : "FTB Revelation",
+      "resolution" : {
+        "height" : 840,
+        "width" : 1720
+      },
+      "type" : "custom"
+    },
+    "36c3a2b28c5713f84bb35cf408009972" : {
+      "created" : "1970-01-01T00:00:00.000Z",
+      "icon" : "Crafting_Table",
+      "lastUsed" : "1970-01-01T00:00:00.000Z",
+      "lastVersionId" : "latest-snapshot",
+      "name" : "",
+      "type" : "latest-snapshot"
+    }
+  },
+  "settings" : {
+    "crashAssistance" : true,
+    "enableAdvanced" : false,
+    "enableAnalytics" : true,
+    "enableHistorical" : false,
+    "enableReleases" : true,
+    "enableSnapshots" : false,
+    "keepLauncherOpen" : false,
+    "profileSorting" : "ByLastPlayed",
+    "showGameLog" : false,
+    "showMenu" : false,
+    "soundOn" : false
+  }
+}

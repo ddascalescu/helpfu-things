@@ -1,0 +1,1 @@
+[Right click] > Save link as... > [Click up arrow in download] > Keep

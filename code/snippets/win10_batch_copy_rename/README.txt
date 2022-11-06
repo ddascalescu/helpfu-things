@@ -1,0 +1,1 @@
+copy file.ext file_renamed.ext

@@ -1,0 +1,1 @@
+Change default browser > close browser > change default back > open browser

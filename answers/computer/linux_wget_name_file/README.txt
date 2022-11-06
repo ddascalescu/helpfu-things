@@ -1,0 +1,1 @@
+wget -O great_gatsby.txt 'https://www.gutenberg.org/cache/epub/64317/pg64317.txt'
