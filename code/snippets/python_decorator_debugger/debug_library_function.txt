@@ -1,0 +1,5 @@
+import math
+from decorators import debug
+
+# Apply a decorator to a standard library function
+math.factorial = debug(math.factorial)
