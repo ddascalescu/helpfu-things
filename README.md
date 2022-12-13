@@ -5,4 +5,5 @@ Usually utilised by simply searching for my issue in file explorer, if a prior i
 
 Essentially it is a personal knowledge base.
 
-Dan Dascalescu
+#
+[Dan Dascalescu](https://github.com/ddascalescu)
