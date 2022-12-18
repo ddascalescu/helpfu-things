@@ -1,4 +1,5 @@
 # title
 A description
 
-Dan Dascalescu
+#
+[Dan Dascalescu](https://github.com/ddascalescu)
